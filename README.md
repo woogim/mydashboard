@@ -45,6 +45,16 @@ npm run dev
 npm run build
 ```
 
+### 배포
+
+```bash
+npm run deploy
+```
+
+자동으로 빌드 후 GitHub Pages에 배포됩니다.
+
+배포 URL: https://woogim.github.io/mydashboard/
+
 ## 💡 사용 방법
 
 1. 애플리케이션을 실행합니다
